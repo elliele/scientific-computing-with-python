@@ -1,2 +1,3 @@
 # scientific-computing-with-python
- Exercise problems and solutions from freeCodeCamp
+
+Exercise problems and solutions from freeCodeCamp.
